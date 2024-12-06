@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Streaming Web App**
 
-- 🌱 I’m currently learning **React and Next Js**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **react and Next Js**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **ankitwaware15@gmail.com**
 
